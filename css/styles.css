@@ -694,11 +694,9 @@ html, body {
 }
 @media only screen and (max-width: 510px) {
     .dress, .stats, .snack {
-        zoom: .8;
     }
 }
 @media only screen and (max-width: 400px) {
     .dress, .stats, .snack {
-        zoom: .6;
     }
 }
