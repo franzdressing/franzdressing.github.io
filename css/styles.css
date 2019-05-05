@@ -445,7 +445,7 @@ html, body {
 }
 .dress .header {
     float: right;
-    font-size: 30px;
+    font-size: 23pt;
     padding-top: 23px;
     margin-right: 50px;
 }
@@ -482,7 +482,7 @@ html, body {
     margin-left: 23px;
 }
 .stats .header {
-    font-size: 27px;
+    font-size: 20pt;
     padding-top: 14px;
     margin-left: 18px;
 }
@@ -562,8 +562,11 @@ html, body {
 .stats .body .top .lvl {
     margin-left: 46px;
 }
+.stats .body .top .lvl-t {
+    font-size: 12pt;
+}
 .stats .body .top .lvl-n {
-    font-size: 22px;
+    font-size: 17pt;
     margin-top: 4px;
 
 }
@@ -578,13 +581,13 @@ html, body {
     margin-top: 4px;
 }
 .stats .body .top .name .name-main {
-    font-size: 22px;
+    font-size: 17pt;
     letter-spacing: 6px;
 }
 .stats .body .top .name .name-sub {
     margin-top: 14px;
     color: #aa86c3;
-    font-size: 15px;
+    font-size: 13pt;
     letter-spacing: 3px;
     position: relative;
     padding: 3px 10px 10px;
@@ -592,7 +595,7 @@ html, body {
 .stats .body .top .name .name-sub:before {
     content: '[';
     color: #ff798c;
-    font-size: 20px;
+    font-size: 16pt;
     position: absolute;
     top: 2px;
     left: 0;
@@ -600,7 +603,7 @@ html, body {
 .stats .body .top .name .name-sub:after {
     content: ']';
     color: #ff798c;
-    font-size: 20px;
+    font-size: 16pt;
     position: absolute;
     top: 2px;
 }
@@ -621,6 +624,7 @@ html, body {
     bottom: 29px;
     left: 9px;
     letter-spacing: 3px;
+    font-size: 12pt;
 }
 .snack .bowl {
     background-image: url('../img/snack.png');
