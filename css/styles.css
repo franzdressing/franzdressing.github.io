@@ -702,4 +702,7 @@ html, body {
     .dress, .stats, .snack {
         zoom: .6;
     }
+    .content {
+        font-size: 4px;
+    }
 }
